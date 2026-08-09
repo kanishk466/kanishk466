@@ -1,132 +1,132 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0b2e,100:00ff99&height=200&section=header&text=KANISHK%20SINGH%20MAURYA&fontSize=42&fontColor=00ff99&animation=fadeIn&fontAlignY=38&desc=Code%20Phantom%20|%20Cyber%20Architect%20|%20AI%20Explorer&descAlignY=58&descSize=18&descColor=00e0ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Kanishk%20Singh%20Maurya&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend-Focused%20Builder&descAlignY=58&descSize=18&descColor=e0e0e0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=800&lines=root%40kanishk466%3A~%23+booting_dev_environment...;system.identity+%3D+%22Full-Stack+Engineer%22;access_level+%3D+%22ELITE%22;status%3A+ONLINE+%7C+building+in+the+shadows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems;Node.js+%7C+Express+%7C+MongoDB+%7C+React;Turning+ideas+into+production-ready+APIs" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kanishk466&label=INTRUSIONS%20DETECTED&color=00ff99&style=for-the-badge&labelColor=0d0221)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge&labelColor=0d0221)
-![Access](https://img.shields.io/badge/ACCESS-GRANTED-00e0ff?style=for-the-badge&labelColor=0d0221)
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=kanishk466&label=Profile%20Views&color=2C5364&style=flat-square" />
 
 </div>
 
----
+<br/>
 
-## `$ whoami`
+## 👨‍💻 About Me
 
-```bash
-> Name        : Kanishk Singh Maurya
-> Alias       : Code Phantom
-> Role        : Full-Stack Engineer | Backend Architect
-> Location    : Maihar, India [ENCRYPTED]
-> Mission     : Build fast. Break limits. Ship clean code.
-> Uptime      : 24/7 // fueled by caffeine and curiosity
+```yaml
+name: Kanishk Singh Maurya
+role: Full-Stack Engineer (Backend-Focused)
+location: Maihar, India
+currently_building: Booking systems, delivery APIs & task management tools
+currently_learning: [System Design, Advanced DSA, AWS, Docker, AI-assisted dev]
+fun_fact: I'd rather debug a race condition than watch a movie
 ```
 
----
+- 🔭 Deep in backend architecture — REST APIs, database design, and clean service layers
+- 🌱 Leveling up on system design and cloud infrastructure
+- 🤝 Open to collaborating on full-stack projects and backend-heavy systems
+- 📫 Best way to reach me: **your-email@example.com**
 
-## `$ skills --list`
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d0221?style=for-the-badge&logo=javascript&logoColor=00ff99)
-![Node.js](https://img.shields.io/badge/NODE.JS-0d0221?style=for-the-badge&logo=node.js&logoColor=00ff99)
-![Express](https://img.shields.io/badge/EXPRESS-0d0221?style=for-the-badge&logo=express&logoColor=00e0ff)
-![MongoDB](https://img.shields.io/badge/MONGODB-0d0221?style=for-the-badge&logo=mongodb&logoColor=00ff99)
-![React](https://img.shields.io/badge/REACT-0d0221?style=for-the-badge&logo=react&logoColor=00e0ff)
-![Git](https://img.shields.io/badge/GIT-0d0221?style=for-the-badge&logo=git&logoColor=b967ff)
-![Postman](https://img.shields.io/badge/POSTMAN-0d0221?style=for-the-badge&logo=postman&logoColor=ff6c37)
-![Linux](https://img.shields.io/badge/LINUX-0d0221?style=for-the-badge&logo=linux&logoColor=00ff99)
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,git,docker,postman,linux,vscode,figma,githubactions&theme=light" />
 
 </div>
 
----
+<div align="center">
 
-## `$ currently_learning --stream`
+| Category | Stack |
+|:--|:--|
+| **Languages** | JavaScript |
+| **Runtime** | Node.js |
+| **Backend** | Express.js |
+| **Database** | MongoDB |
+| **Frontend** | React |
+| **DevOps & Tools** | Docker · Git · GitHub Actions · Postman |
+| **OS** | Linux |
+| **Design** | Figma |
 
-```diff
-+ System Design at scale
-+ Advanced Data Structures & Algorithms
-+ Cloud infrastructure (AWS / Docker)
-+ AI-assisted engineering workflows
-```
+</div>
 
----
+<br/>
 
-## `$ projects --top --sort=impact`
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/kanishk466/docmeet-backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk466&repo=docmeet-backend&theme=dark&border_color=00ff99&bg_color=0d0221&title_color=00ff99&text_color=00e0ff&icon_color=b967ff"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk466&repo=docmeet-backend&theme=default&hide_border=true&border_radius=10"/>
 </a>
 <a href="https://github.com/kanishk466/docmeet-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk466&repo=docmeet-frontend&theme=dark&border_color=00ff99&bg_color=0d0221&title_color=00ff99&text_color=00e0ff&icon_color=b967ff"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk466&repo=docmeet-frontend&theme=default&hide_border=true&border_radius=10"/>
 </a>
-<br/>
+
 <a href="https://github.com/kanishk466/FoodDelivery-Order-Api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk466&repo=FoodDelivery-Order-Api&theme=dark&border_color=00ff99&bg_color=0d0221&title_color=00ff99&text_color=00e0ff&icon_color=b967ff"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk466&repo=FoodDelivery-Order-Api&theme=default&hide_border=true&border_radius=10"/>
 </a>
 <a href="https://github.com/kanishk466/taskManagement-Rest-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk466&repo=taskManagement-Rest-api&theme=dark&border_color=00ff99&bg_color=0d0221&title_color=00ff99&text_color=00e0ff&icon_color=b967ff"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk466&repo=taskManagement-Rest-api&theme=default&hide_border=true&border_radius=10"/>
 </a>
 
 </div>
 
----
+<details>
+<summary><b>📋 Project details (click to expand)</b></summary>
+<br/>
 
-## `$ stats --full-scan`
+**DocMeet** — Full-stack doctor appointment/meeting booking platform
+- `docmeet-backend`: REST API handling scheduling logic, auth, and data persistence
+- `docmeet-frontend`: Client-facing booking interface built with React
+
+**FoodDelivery-Order-Api** — REST API managing food delivery orders end-to-end, from cart to fulfillment
+
+**taskManagement-Rest-api** — Backend service powering a task management system with CRUD operations and status tracking
+
+</details>
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kanishk466&show_icons=true&theme=chartreuse-dark&bg_color=0d0221&title_color=00ff99&icon_color=00e0ff&text_color=b967ff&border_color=00ff99&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk466&layout=compact&theme=chartreuse-dark&bg_color=0d0221&title_color=00ff99&text_color=b967ff&border_color=00ff99&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kanishk466&show_icons=true&theme=default&hide_border=true&border_radius=10&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk466&layout=compact&theme=default&hide_border=true&border_radius=10" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishk466&theme=dark&background=0D0221&ring=00FF99&fire=00E0FF&currStreakLabel=00FF99&border=00FF99" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishk466&hide_border=true&border_radius=10" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishk466&theme=react-dark&bg_color=0d0221&color=00ff99&line=00e0ff&point=b967ff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishk466&theme=minimal&hide_border=true&area=true" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## `$ tools --frameworks`
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS%20CODE-0d0221?style=flat-square&logo=visualstudiocode&logoColor=00ff99)
-![Docker](https://img.shields.io/badge/DOCKER-0d0221?style=flat-square&logo=docker&logoColor=00e0ff)
-![npm](https://img.shields.io/badge/NPM-0d0221?style=flat-square&logo=npm&logoColor=b967ff)
-![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-0d0221?style=flat-square&logo=githubactions&logoColor=00ff99)
-![Figma](https://img.shields.io/badge/FIGMA-0d0221?style=flat-square&logo=figma&logoColor=00e0ff)
+<img src="https://github-profile-trophy.vercel.app/?username=kanishk466&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
----
-
-## `$ connect --now`
+<br/>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-0d0221?style=for-the-badge&logo=gmail&logoColor=00ff99)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00e0ff)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0221?style=for-the-badge&logo=vercel&logoColor=b967ff)](https://your-portfolio-url.com)
+### 💭 
+> "The quieter you become, the more you are able to hear."
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
----
-
-<div align="center">
-
-## `$ ./quote.sh --run`
-
-```
-"The quieter you become, the more you are able to hear."
-                                        — a phantom in the code
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:1a0b2e,100:0d0221&height=100&section=footer" width="100%"/>
+**Thanks for visiting — always open to interesting backend & full-stack collaborations.**
 
 </div>
