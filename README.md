@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:kanishkas466@gmail.com"><img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
@@ -30,7 +30,7 @@ fun_fact: I'd rather debug a race condition than watch a movie
 - 🔭 Deep in backend architecture — REST APIs, database design, and clean service layers
 - 🌱 Leveling up on system design and cloud infrastructure
 - 🤝 Open to collaborating on full-stack projects and backend-heavy systems
-- 📫 Best way to reach me: **your-email@example.com**
+- 📫 Best way to reach me: **kanishkas466@gmail.com**
 
 <br/>
 
