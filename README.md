@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Kanishk%20Singh%20Maurya&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend-Focused%20Builder&descAlignY=58&descSize=18&descColor=e0e0e0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Kanishk%20Singh%20Maurya&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20PostgreSQL%20%7C%20AWS&descAlignY=58&descSize=18&descColor=e0e0e0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems;Node.js+%7C+Express+%7C+MongoDB+%7C+React;Turning+ideas+into+production-ready+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=750&lines=3%2B+years+building+scalable+backend+systems;Node.js+%7C+NestJS+%7C+PostgreSQL+%7C+Redis+%7C+AWS;Microservices+%C2%B7+Real-time+Systems+%C2%B7+RBAC+Auth" alt="Typing SVG" />
 
 <br/>
 
 <a href="mailto:kanishkas466@gmail.com"><img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kanishk007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/kanishk466"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=kanishk466&label=Profile%20Views&color=2C5364&style=flat-square" />
+
+📍 Noida, India
 
 </div>
 
@@ -18,19 +20,13 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Kanishk Singh Maurya
-role: Full-Stack Engineer (Backend-Focused)
-location: Maihar, India
-currently_building: Booking systems, delivery APIs & task management tools
-currently_learning: [System Design, Advanced DSA, AWS, Docker, AI-assisted dev]
-fun_fact: I'd rather debug a race condition than watch a movie
-```
+Backend Developer with **3 years of experience** designing and shipping production-grade server-side systems. I specialize in building **scalable REST APIs, microservices, and real-time systems** using Node.js, Express.js, and NestJS — with deep hands-on experience across PostgreSQL, MongoDB, and Redis. I've owned backend features end-to-end: schema design, API architecture, cloud deployment, and CI/CD, in fast-moving Agile teams.
 
-- 🔭 Deep in backend architecture — REST APIs, database design, and clean service layers
-- 🌱 Leveling up on system design and cloud infrastructure
-- 🤝 Open to collaborating on full-stack projects and backend-heavy systems
-- 📫 Best way to reach me: **kanishkas466@gmail.com**
+- 🏥 Currently architecting a **multi-tenant healthcare backend** with strict data isolation and row-level security
+- ⚡ Built real-time systems using **WebSockets, SSE, and Redis pub/sub** at scale
+- 🔐 Designed centralized **JWT + RBAC authentication** used across 5+ production applications
+- 📈 Reduced API response times through query optimization, indexing, and caching strategies
+- 📫 Reach me at **kanishkas466@gmail.com**
 
 <br/>
 
@@ -38,7 +34,7 @@ fun_fact: I'd rather debug a race condition than watch a movie
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,git,docker,postman,linux,vscode,figma,githubactions&theme=light" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,ts,js,postgres,mongodb,redis,mysql,aws,docker,react,py,fastapi,git,githubactions&theme=light" />
 
 </div>
 
@@ -46,50 +42,60 @@ fun_fact: I'd rather debug a race condition than watch a movie
 
 | Category | Stack |
 |:--|:--|
-| **Languages** | JavaScript |
-| **Runtime** | Node.js |
-| **Backend** | Express.js |
-| **Database** | MongoDB |
-| **Frontend** | React |
-| **DevOps & Tools** | Docker · Git · GitHub Actions · Postman |
-| **OS** | Linux |
-| **Design** | Figma |
+| **Backend** | Node.js · Express.js · NestJS · REST APIs · Microservices |
+| **Real-time** | WebSockets (Socket.io) · Server-Sent Events (SSE) |
+| **Auth & Security** | JWT · RBAC · Rate Limiting · Input Validation |
+| **Databases** | PostgreSQL · MongoDB · MySQL · Redis (caching, indexing, query optimization) |
+| **Cloud & DevOps** | AWS (EC2, S3) · Docker · CI/CD · GitHub Actions · PM2 · Netlify |
+| **Frontend** | React.js · TypeScript · JavaScript (ES6+) · HTML5/CSS3 |
+| **Testing & Tools** | Git · Postman · Jest · Mocha · Python · FastAPI |
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-<div align="center">
+```text
+Backend Developer @ ItDose Infosystem Pvt Ltd                          Feb 2025 – Present
+Node.js · Express.js · PostgreSQL · Redis | Noida, India
+```
+- Architected a **multi-tenant healthcare backend** with strict data isolation, row-level security, and scalable schemas
+- Built REST APIs powering telemedicine, patient management, care plans, and clinical interventions
+- Implemented **real-time notifications** via SSE + Redis pub/sub — live updates with zero polling
+- Engineered **JWT + RBAC** auth enforced across all API endpoints
+- Cut API response times significantly through Redis caching and PostgreSQL query optimization
 
-<a href="https://github.com/kanishk466/docmeet-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk466&repo=docmeet-backend&theme=default&hide_border=true&border_radius=10"/>
-</a>
-<a href="https://github.com/kanishk466/docmeet-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk466&repo=docmeet-frontend&theme=default&hide_border=true&border_radius=10"/>
-</a>
+```text
+Backend Developer (Freelance) — MERN Stack                             Sep 2024 – Jan 2025
+Remote
+```
+- Built a full food ordering platform backend: REST APIs, MongoDB modeling, CMS integration, order lifecycle
+- Developed **CricStars** — a real-time cricket platform with live score streaming via WebSockets at scale
+- Owned end-to-end delivery: API design, DB schema, cloud deployment, production monitoring
 
-<a href="https://github.com/kanishk466/FoodDelivery-Order-Api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk466&repo=FoodDelivery-Order-Api&theme=default&hide_border=true&border_radius=10"/>
-</a>
-<a href="https://github.com/kanishk466/taskManagement-Rest-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk466&repo=taskManagement-Rest-api&theme=default&hide_border=true&border_radius=10"/>
-</a>
+```text
+Software Engineer – Backend Developer @ Techharvest Solutions Pvt Ltd   May 2023 – Aug 2024
+Node.js | India
+```
+- Maintained backend APIs, improving response times via query optimization and Redis caching
+- Architected a **centralized JWT auth microservice** used across 5+ internal apps — cut auth logic duplication by 60%
+- Enforced API security best practices: rate limiting, validation, secure token handling
 
-</div>
-
-<details>
-<summary><b>📋 Project details (click to expand)</b></summary>
 <br/>
 
-**DocMeet** — Full-stack doctor appointment/meeting booking platform
-- `docmeet-backend`: REST API handling scheduling logic, auth, and data persistence
-- `docmeet-frontend`: Client-facing booking interface built with React
+## 🚀 Featured Project
 
-**FoodDelivery-Order-Api** — REST API managing food delivery orders end-to-end, from cart to fulfillment
+<details open>
+<summary><b>🤖 AI-Powered Project Management Tool</b></summary>
+<br/>
 
-**taskManagement-Rest-api** — Backend service powering a task management system with CRUD operations and status tracking
+`React.js` · `Node.js` · `PostgreSQL` · `TypeORM` · `JWT` · `AWS` · `GitHub Actions`
+
+- Designed the Node.js backend with PostgreSQL + TypeORM for sprint management, task lifecycle, and analytics
+- Integrated **AI-powered task prioritization and effort estimation**
+- Implemented **RBAC** (Admin / Member / Viewer) with JWT auth across all API routes
+- Set up full **CI/CD with GitHub Actions**; deployed on AWS EC2 with PM2 and S3 for asset storage
 
 </details>
 
@@ -110,23 +116,17 @@ fun_fact: I'd rather debug a race condition than watch a movie
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🎓 Education
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kanishk466&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
+**B.Tech, Computer Science & Engineering** — VITS Satna
+2019 – 2023 · CGPA: 8.15 · Satna, India
 
 <br/>
 
 <div align="center">
 
-### 💭 
-> "The quieter you become, the more you are able to hear."
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
-**Thanks for visiting — always open to interesting backend & full-stack collaborations.**
+**Open to backend and full-stack opportunities — let's build something scalable.**
 
 </div>
