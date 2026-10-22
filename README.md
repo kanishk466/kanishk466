@@ -73,13 +73,13 @@ Live chat where a **Router Agent** classifies each message and sends it to a tec
 
 **Stack:** NestJS · Socket.IO · LangGraph · Qdrant · Redis · PostgreSQL
 
-[![Code](https://img.shields.io/badge/View%20Code-2C5364?logo=github&logoColor=white&style=flat-square)](https://github.com/kanishk466/multi-agent-support)
+[![Code](https://img.shields.io/badge/View%20Code-2C5364?logo=github&logoColor=white&style=flat-square)](https://github.com/kanishk466/Multi-Agent-Customer-Support-System)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 AI Agent with Real Tools (ReAct)
-![status](https://ai-agents-tools.onrender.com)
+![Live URL](https://ai-agents-tools.onrender.com)
 
 An agent that **plans, searches the web, runs code, scrapes pages, does math and writes reports**, then answers with cited sources while streaming its reasoning live.
 
@@ -90,7 +90,7 @@ An agent that **plans, searches the web, runs code, scrapes pages, does math and
 
 **Stack:** Fastify · TypeScript · Gemini · Groq · Redis · PostgreSQL
 
-[![Code](https://img.shields.io/badge/View%20Code-2C5364?logo=github&logoColor=white&style=flat-square)](https://github.com/kanishk466/ai-agent)
+[![Code](https://img.shields.io/badge/View%20Code-2C5364?logo=github&logoColor=white&style=flat-square)](https://github.com/kanishk466/Ai-agents-tools)
 
 </td>
 </tr>
@@ -109,7 +109,7 @@ Upload a PDF, ask questions in plain language and get answers with **page-level 
 
 **Stack:** Fastify · TypeScript · OpenAI · Pinecone · BullMQ · PostgreSQL
 
-[![Code](https://img.shields.io/badge/View%20Code-2C5364?logo=github&logoColor=white&style=flat-square)](https://github.com/kanishk466/pdf-qa-system)
+[![Code](https://img.shields.io/badge/View%20Code-2C5364?logo=github&logoColor=white&style=flat-square)](https://github.com/kanishk466/ai-pdf-qa-Rag)
 
 </td>
 <td width="50%" valign="top">
