@@ -79,7 +79,7 @@ Live chat where a **Router Agent** classifies each message and sends it to a tec
 <td width="50%" valign="top">
 
 ### 🧠 AI Agent with Real Tools (ReAct)
-![status](https://img.shields.io/badge/status-live-2ea44f?style=flat-square)
+![status](https://ai-agents-tools.onrender.com)
 
 An agent that **plans, searches the web, runs code, scrapes pages, does math and writes reports**, then answers with cited sources while streaming its reasoning live.
 
